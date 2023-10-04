@@ -104,7 +104,7 @@ body{
 	font-size:12px;
 
 }
-.span img{
+.span1 img{
 	background: white;
 	width: 30px;
 	padding: 6px;
@@ -147,6 +147,7 @@ body{
 	word-spacing: -4px;
 }
 .left-s{
+	
 	width: 25%;
 	float: left;
 
@@ -173,4 +174,72 @@ body{
 	width: 50%;
 	float: left;
 	padding: 20px 20px 20px 0px;
+}
+#progress{
+	background: #333;
+	border-radius: 13px;
+	height: 8px;
+	width: 100%;
+
+}
+#progress:after{
+	content: '';
+	display:block;
+	background: var(--blue);
+	width: 50%;
+	height: 100%;
+	border-radius: 9px;
+
+}
+#progress1{
+	background: #333;
+	border-radius: 13px;
+	height: 8px;
+	width: 100%;
+
+}
+#progress1:after{
+	content: '';
+	display:block;
+	background: var(--blue);
+	width: 50%;
+	height: 100%;
+	border-radius: 9px;
+
+}
+#progress2{
+	background: #333;
+	border-radius: 13px;
+	height: 8px;
+	width: 100%;
+
+}
+#progress2:after{
+	content: '';
+	display:block;
+	background: var(--blue);
+	width: 50%;
+	height: 100%;
+	border-radius: 9px;
+
+}
+#progress3{
+	background: #333;
+	border-radius: 13px;
+	height: 8px;
+	width: 100%;
+
+}
+#progress3:after{
+	content: '';
+	display:block;
+	background: var(--blue);
+	width: 50%;
+	height: 100%;
+	border-radius: 9px;
+
+}
+.p6{
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
