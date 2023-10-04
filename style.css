@@ -112,6 +112,15 @@ body{
 	float: left;
 	margin-right: 10px;
 }
+.span2 img{
+	margin-left: 150px;
+	background: white;
+	width: 30px;
+	padding: 6px;
+	border-radius: 16px;
+	float: left;
+	margin-right: 10px;
+}
 .right{
 	padding: 40px 30px;
 	background: var(--white);
